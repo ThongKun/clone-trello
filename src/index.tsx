@@ -5,8 +5,8 @@ import App from './App';
 import { AppStateContextProvider } from './AppStateContext';
 
 ReactDOM.render(
-	<AppStateContextProvider>
-		<App />
-	</AppStateContextProvider>,
-	document.getElementById('root')
+  <AppStateContextProvider>
+    <App />
+  </AppStateContextProvider>,
+  document.getElementById('root')
 );

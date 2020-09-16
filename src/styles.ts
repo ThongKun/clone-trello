@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const AppContainer = styled.div`
+export const AppContainer = styled.div` 
   align-items: flex-start;
   background-color: #3179ba;
   display: flex;
@@ -81,4 +81,3 @@ export const NewItemInput = styled.input`
   padding: 0.5rem 1rem;
   width: 100%;
 `;
-
